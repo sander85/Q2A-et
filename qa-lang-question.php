@@ -65,7 +65,7 @@
 		'category_ask_not_allowed' => 'Sul pole õigust selles kategoorias küsimusi esitada',
 		'claim_button' => 'Mina kirjutasin selle',
 		'clear_flags_button' => 'puhasta märgistused',
-		'clear_flags_popup' => 'Märgistuste eemaldamine kõigilt kasutajatelt',
+		'clear_flags_popup' => 'Eemalda kõigi kasutajate poolt lisatud märgistused',
 		'close_button' => 'sulge',
 		'close_duplicate_error' => 'Algset küsimust ei leitud - palun proovi uuesti sisestada algse küsimuse number URList, nt 123.',
 		'close_duplicate' => 'See küsimus on korduv',
