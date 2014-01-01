@@ -89,7 +89,7 @@
 		'recent_updates_favorites' => 'Hiljutised uuendused sinu lemmikutele',
 		'recent_updates_title' => 'Sinu hiljutised uuendused',
 		'site_in_maintenance' => 'See leht on hetkel hooldusrežiimis - palun tule varsti tagasi.',
-		'suggest_favorites_add' => 'Küsimuse või mõne muu asja lisamiseks lemmikutesse klõpsa ikoonil ^.',
+		'suggest_favorites_add' => 'Küsimuse või mõne muu asja lisamiseks lemmikutesse klõpsa ikoonil ^, mis asub vastavate lehtede ülemises osas.',
 		'suggest_update_favorites' => 'Et saada rohkem uuendusi, lisa asju ^1oma lemmikutesse^2 juurde.',
 		'unblock_ip_button' => 'Eemalda IP-lt blokeering',
 		'your_a_commented' => 'sinu vastust kommenteeriti',

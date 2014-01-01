@@ -141,7 +141,7 @@
 		'page_not_found' => 'Lehte ei leitud',
 		'page_prev' => 'eelmine',
 		'popular_tags' => 'Populaarseimad sildid',
-		'questions_tagged_x' => 'Hiljutised küsimused sildiga ^',
+		'questions_tagged_x' => 'Hiljutised küsimused sildiga "^"',
 		'recategorized' => 'kategooria muudetud',
 		'recent_activity_in_x' => 'Hiljutine tegevus kategoorias "^"',
 		'recent_activity_title' => 'Hiljutine tegevus',
