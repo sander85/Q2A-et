@@ -52,7 +52,7 @@
 		'feedback_empty' => 'Palun kasuta seda välja, et saata kommentaare ja soovitusi',
 		'feedback_message' => 'Sinu kommentaarid ja soovitused keskkonnale "^":',
 		'feedback_name' => 'Sinu nimi (valikuline):',
-		'feedback_sent' => 'Sinu allolve sõnum on saadetud - täname!',
+		'feedback_sent' => 'Sinu allolev sõnum on saadetud - täname!',
 		'feedback_title' => 'Tagasiside andmine',
 		'form_security_again' => 'Kinnitamiseks klõpsa veelkord',
 		'form_security_reload' => 'Palun värskenda lehte ja proovi siis uuesti',
