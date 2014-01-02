@@ -4,7 +4,7 @@
 	Question2Answer (c) Gideon Greenspan
 	http://www.question2answer.org/
 
-	Copyright (C) 2013 Sander Lepik
+	Copyright (C) 2013-2014 Sander Lepik
 	
 	File: qa-lang/et/qa-lang-main.php
 	Description: Language phrases commonly used throughout Q2A

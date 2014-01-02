@@ -4,10 +4,9 @@
 	Question2Answer (c) Gideon Greenspan
 	http://www.question2answer.org/
 
-	Copyright (C) 2013 Sander Lepik
+	Copyright (C) 2013-2014 Sander Lepik
 	
-	File: qa-include/qa-lang-misc.php
-	Version: See define()s at top of qa-include/qa-base.php
+	File: qa-lang/et/qa-lang-misc.php
 	Description: Miscellaneous language phrases
 
 
