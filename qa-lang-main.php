@@ -99,7 +99,7 @@
 		'nav_account' => 'Konto',
 		'nav_activity' => 'Kogu tegevus',
 		'nav_admin' => 'Administreerimine',
-		'nav_ask' => 'Küsi',
+		'nav_ask' => 'Esita küsimus',
 		'nav_categories' => 'Kategooriad',
 		'nav_feedback' => 'Anna tagasisidet',
 		'nav_home' => 'Avaleht',
