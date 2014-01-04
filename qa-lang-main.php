@@ -159,7 +159,7 @@
 		'reopened' => 'taasavatud',
 		'reshown' => 'taasavalikustatud',
 		'results_for_x' => 'Tulemused otsingule "^"',
-		'retagged' => 'uuesti sildistatud',
+		'retagged' => 'sildid muudetud',
 		'save_button' => 'Salvesta muudatused',
 		'search_button' => 'Otsi',
 		'search_explanation' => 'Palun sisesta otsingukasti mingi tekst ja proovi siis uuesti.',
