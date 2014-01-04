@@ -25,7 +25,7 @@
 
 	return array(
 		'block_ip_button' => 'Blokeeri IP-aadress',
-		'browse_categories' => 'Sirvi kategooriaid',
+		'browse_categories' => 'Kategooriad',
 		'captcha_approve_fix' => 'Vajadus selle kinnituse järele kaob ära, kui sinu konto heakskiidu saab.',
 		'captcha_confirm_fix' => 'Edaspidiseks kinnituse vältimiseks ^5kinnita palun oma e-posti aadress^6.',
 		'captcha_error' => 'Palun sisesta õige spämmitõrje kood',
