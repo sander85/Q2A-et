@@ -56,7 +56,7 @@
 		'block_words_note' => 'Kõigi tähtede jaoks kasuta *. Näited: seen (leiab ainult sõna seen) , seen* (leiab seen või seened) , se*n (leiab seen, sein, selleen jne).',
 		'cancel_mailing_button' => 'Katkesta kirjade saatmine',
 		'categories_introduction' => 'Et kategooriatega algust teha, klõpsa nupul \'Lisa kategooria\'.',
-		'categories_not_shown' => 'Mõned küsimused on kategooriates, mida ei näidata.',
+		'categories_not_shown' => 'Mõned küsimused on kategooriates, mida ei kuvata.',
 		'categories_title' => 'Kategooriad',
 		'categories' => 'Katekooriad',
 		'category_add_sub' => 'lisa alamkategooria',

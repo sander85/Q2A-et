@@ -241,7 +241,7 @@
 		'show_custom_welcome' => 'Kohandatud sõnum registreeruvatele kasutajatele saadetavas e-kirjas:',
 		'show_fewer_cs_count' => 'Kui osaliselt peidetud, siis kuvatakse viimased:',
 		'show_fewer_cs_from' => 'Kommentaarid peidetakse osaliselt pärast:',
-		'show_full_date_days' => 'Täielikku kuupäeva näidatakse, kui on möödunud:',
+		'show_full_date_days' => 'Täielikku kuupäeva kuvatakse, kui on möödunud:',
 		'show_home_description' => 'Avalehele lisatakse <meta> description info:',
 		'show_if_no_as' => 'vastuste puudumisel',
 		'show_message_history' => 'Privaatsõnumite ajalugu salvestatakse ja kuvatakse:',
