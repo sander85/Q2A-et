@@ -2,11 +2,13 @@
 	
 /*
 	Question2Answer (c) Gideon Greenspan
+
 	http://www.question2answer.org/
 
 	Copyright (C) 2014 Sander Lepik
 	
 	File: qa-lang/et/qa-lang-options.php
+	Version: See define()s at top of qa-include/qa-base.php
 	Description: Language phrases for all options, as shown in admin center
 
 

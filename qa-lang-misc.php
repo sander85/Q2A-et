@@ -2,11 +2,13 @@
 	
 /*
 	Question2Answer (c) Gideon Greenspan
+
 	http://www.question2answer.org/
 
 	Copyright (C) 2013-2014 Sander Lepik
 	
 	File: qa-lang/et/qa-lang-misc.php
+	Version: See define()s at top of qa-include/qa-base.php
 	Description: Miscellaneous language phrases
 
 
@@ -68,7 +70,7 @@
 		'my_favorites_title' => 'Sinu lemmikud',
 		'nav_all_my_updates' => 'Kõik sinu uuendused',
 		'nav_my_content' => 'Sinu loodud sisu',
-		'nav_my_details' => 'Detailid',
+		'nav_my_details' => 'Konto',
 		'nav_my_favorites' => 'Lemmikud',
 		'nav_user_activity' => 'Hiljutine tegevus',
 		'nav_user_as' => 'Kõik vastused',

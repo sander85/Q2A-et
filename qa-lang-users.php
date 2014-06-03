@@ -2,11 +2,13 @@
 	
 /*
 	Question2Answer (c) Gideon Greenspan
+
 	http://www.question2answer.org/
 
 	Copyright (C) 2014 Sander Lepik
 	
 	File: qa-lang/et/qa-lang-users.php
+	Version: See define()s at top of qa-include/qa-base.php
 	Description: Language phrases for user management
 
 
@@ -49,6 +51,7 @@
 		'confirm_wrong_log_in' => 'Kood pole õige - palun ^1logi sisse^2, et saata uus link',
 		'confirm_wrong_resend' => 'Kood pole õige - uue lingi saatmiseks klõpsa alloleval lingil',
 		'delete_user_button' => 'Kustuta kasutaja',
+		'edit_profile' => 'Muuda profiili',
 		'edit_user_button' => 'Muuda kasutajat',
 		'email_confirmed' => 'kinnitatud',
 		'email_exists' => 'E-posti aadress on juba kontoga seotud',

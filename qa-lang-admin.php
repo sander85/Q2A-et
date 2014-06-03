@@ -2,11 +2,13 @@
 	
 /*
 	Question2Answer (c) Gideon Greenspan
+
 	http://www.question2answer.org/
 
 	Copyright (C) 2014 Sander Lepik
 	
 	File: qa-lang/et/qa-lang-admin.php
+	Version: See define()s at top of qa-include/qa-base.php
 	Description: Language phrases for admin center
 
 
@@ -226,6 +228,7 @@
 		'resume_mailing_button' => 'Jätka kirjade saatmist',
 		'save_options_button' => 'Salvesta seaded',
 		'save_recalc_button' => 'Salvesta ja arvuta uuesti',
+		'save_view_button' => 'Salvesta ja vaata',
 		'send_test_button' => 'Saada endale test kiri',
 		'show_defaults_button' => 'Kuva vaikeväärtusi',
 		'show_on_register_form' => 'Välja kuvatakse registreerumisvormil',

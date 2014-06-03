@@ -2,11 +2,13 @@
 	
 /*
 	Question2Answer (c) Gideon Greenspan
+
 	http://www.question2answer.org/
 
 	Copyright (C) 2014 Sander Lepik
 	
 	File: qa-lang/et/qa-lang-profile.php
+	Version: See define()s at top of qa-include/qa-base.php
 	Description: Language phrases for user profile page
 
 
@@ -36,7 +38,7 @@
 		'delete_wall_post_popup' => 'Kustuta see seinapostitus',
 		'extra_privileges' => 'Lisaõigused:',
 		'gave_out' => 'Andis:',
-		'my_account_title' => 'Konto info',
+		'my_account_title' => 'Konto',
 		'no_answers_by_x' => 'Kasutaja ^ pole veel küsimustele vastanud',
 		'no_posts_by_x' => 'Kasutaja ^ pole veel postitanud',
 		'no_questions_by_x' => 'Kasutaja ^ pole veel küsimusi esitanud',
